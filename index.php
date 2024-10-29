@@ -205,6 +205,7 @@
         <a href="#">DIRECTIVAS</a>
         <a href="#">GALERÍA</a>
         <a href="#">CREADORES</a>
+        <a href="eventos.php">EVENTOS</a>
     </nav>
 
     <!-- Contenido principal -->
@@ -262,6 +263,4 @@
     </script>
 </body>
 </html>
-
-
 
